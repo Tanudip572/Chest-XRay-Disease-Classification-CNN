@@ -178,5 +178,4 @@ This project successfully developed a CNN-based system for classifying chest X-r
 ## Author
 
 **Tanudip Ghosh**
-
-University Project – Detection and Classification of COVID-19 and Pneumonia from Chest X-Ray Images Using Convolutional Neural Networks.
+Project – Detection and Classification of COVID-19 and Pneumonia from Chest X-Ray Images Using Convolutional Neural Networks.
